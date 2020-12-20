@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/TUTEL-50/Desktop/yeni/homework4/test3_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="test3" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/test3/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/resetn" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">resetn</obj_property>
+      <obj_property name="ObjectShortName">resetn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/start" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/b" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">b[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/sum" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sum[8:0]</obj_property>
+      <obj_property name="ObjectShortName">sum[8:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/load_fsm" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">load_fsm</obj_property>
+      <obj_property name="ObjectShortName">load_fsm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/en_fsm" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">en_fsm</obj_property>
+      <obj_property name="ObjectShortName">en_fsm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/sr_out1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sr_out1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">sr_out1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/sr_out2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sr_out2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">sr_out2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/fas_port" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">fas_port</obj_property>
+      <obj_property name="ObjectShortName">fas_port</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/fac_port" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">fac_port</obj_property>
+      <obj_property name="ObjectShortName">fac_port</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/q_dff" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q_dff</obj_property>
+      <obj_property name="ObjectShortName">q_dff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/sr3/sr_port" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sr_port[8:0]</obj_property>
+      <obj_property name="ObjectShortName">sr_port[8:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/sr3/count" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">count[3:0]</obj_property>
+      <obj_property name="ObjectShortName">count[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+</wave_config>
